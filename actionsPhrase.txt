@@ -1,0 +1,14 @@
+addPage stack_datastructure_wiki
+addPage stack_cprogramming
+addPage stack_oracle
+addPage stackoverflow
+addPage stacklighting
+addPage stackmagazine
+addPage stacks_and_queues
+addPage cmu_stack
+addPage studytonight
+addPage auckland_stack
+addPage geeks_quiz
+queryFindPagesWhichContainWord structure
+queryFindPagesWhichContainPhrase data structure
+queryFindPagesWhichContainPhrase data structure study structure
